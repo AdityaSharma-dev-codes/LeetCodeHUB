@@ -7,6 +7,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
