@@ -17,6 +17,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
