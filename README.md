@@ -21,6 +21,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
 ## Binary Search
