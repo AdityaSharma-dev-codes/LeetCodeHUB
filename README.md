@@ -18,6 +18,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1395-minimum-time-visiting-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0009-palindrome-number](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0070-climbing-stairs) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
