@@ -9,6 +9,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
@@ -77,5 +78,10 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
