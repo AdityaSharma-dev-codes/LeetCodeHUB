@@ -14,6 +14,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | ------- |
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 ## Math
 |  |
