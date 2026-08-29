@@ -24,6 +24,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | ------- |
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | ------- |
 | [0015-3sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
