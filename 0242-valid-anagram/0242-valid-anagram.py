@@ -1,5 +1,7 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
         check = dict()
         for i in s:
             check[i] = check.get(i, 0) + 1
@@ -9,9 +11,5 @@ class Solution:
                 return False
             else:
                 check[i] -= 1
-        
-        for i in s:
-            if check[i] != 0:
-                return False
 
         return True
