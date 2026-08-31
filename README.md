@@ -16,6 +16,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0965-unique-email-addresses) |
 ## Math
@@ -71,6 +73,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
@@ -97,4 +100,24 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1395-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
