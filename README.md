@@ -9,6 +9,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 ## Simulation
