@@ -13,6 +13,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0001-two-sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +91,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
