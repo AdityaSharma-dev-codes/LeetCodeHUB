@@ -14,6 +14,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0054-spiral-matrix](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
