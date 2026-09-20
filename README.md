@@ -141,4 +141,12 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0424-longest-repeating-character-replacement) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
