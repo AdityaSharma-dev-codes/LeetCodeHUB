@@ -74,6 +74,7 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 | [0015-3sum](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/1019-squares-of-a-sorted-array) |
@@ -144,9 +145,15 @@ A collection of LeetCode Submissions! - Created using [LeetHub 2.0](https://gith
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AdityaSharma-dev-codes/LeetCodeHUB/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
